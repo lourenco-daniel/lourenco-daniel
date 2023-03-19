@@ -1,10 +1,23 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3CDBFF&height=150&section=header"/>
 
+##
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3CDBFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Daniel+Lourenço;I'm+24+years+old;I'm+from+Brazil;I'm+Majoring+in+Systems+Development+Analyst;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=lourenco-daniel&show_icons=true&width="49%"&title_color=3CDBFF&text_color=FFFFFF&bg_color=000000&border_color=000000&icon_color=3CDBFF)
+##
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lourenco-daniel&langs_count=8&title_color=3CDBFF&text_color=FFFFFF&bg_color=000000&border_color=000000&)](https://github.com/lourenco-daniel/github-readme-stats)
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lourenco-daniel&show_icons=true&count_private=true&hide_border=true&title_color=3CDBFF&icon_color=3CDBFF&text_color=c9d1d9&bg_color=000000" alt="Daniel Lourenço" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lourenco-daniel&layout=compact&hide_border=true&title_color=3CDBFF&text_color=c9d1d9&bg_color=000000" />
+</div>
+
+##
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lourenco-daniel&theme=dark_lover" />
+</p>
+
+##
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=lourenco-daniel&bg_color=000000&color=70d4ff&line=70d4ff&point=04052a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -36,11 +49,5 @@
   <a align="center" height="30" width="40" href="mailto:daniel7lourenco@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a> 
 </div>
-
-##
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lourenco-daniel&theme=dark_lover" />
-</p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3CDBFF&height=150&section=footer"/>
