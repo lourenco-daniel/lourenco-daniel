@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3CDBFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Daniel+Lourenço;I'm+24+years+old;I'm+from+Brazil;I'm+Majoring+in+Systems+Development+Analyst;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=lourenco-daniel&show_icons=true&title_color=3CDBFF&text_color=FFFFFF&bg_color=000000&border_color=000000&icon_color=3CDBFF)
+![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=lourenco-daniel&show_icons=true&width="49%"&title_color=3CDBFF&text_color=FFFFFF&bg_color=000000&border_color=000000&icon_color=3CDBFF)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lourenco-daniel&langs_count=8&title_color=3CDBFF&text_color=FFFFFF&bg_color=000000&border_color=000000&)](https://github.com/lourenco-daniel/github-readme-stats)
 
