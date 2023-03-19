@@ -5,8 +5,8 @@
 ##
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lourenco-daniel&show_icons=true&count_private=true&hide_border=true&title_color=3CDBFF&icon_color=3CDBFF&text_color=c9d1d9&bg_color=000000" alt="Daniel Lourenço" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lourenco-daniel&layout=compact&hide_border=true&title_color=3CDBFF&text_color=c9d1d9&bg_color=000000" />
+  <img width="500px" height="195px" src="https://github-readme-stats.vercel.app/api?username=lourenco-daniel&show_icons=true&count_private=true&hide_border=true&title_color=3CDBFF&icon_color=3CDBFF&text_color=c9d1d9&bg_color=000000" alt="Daniel Lourenço" /> 
+  <img width="500px" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lourenco-daniel&layout=compact&hide_border=true&title_color=3CDBFF&text_color=c9d1d9&bg_color=000000" />
 </div>
 
 ##
