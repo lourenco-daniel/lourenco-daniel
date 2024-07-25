@@ -31,7 +31,6 @@
 
 ##
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=lourenco-daniel&bg_color=000000&color=70d4ff&line=70d4ff&point=04052a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ##
